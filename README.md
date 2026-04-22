@@ -11,7 +11,6 @@
 ### 🧠 Sobre mí
 
 * 💼 Desarrollador Full Stack con experiencia en e-commerce y apps web
-* 🌱 Actualmente aprendiendo **TypeScript**
 * ⚙️ Trabajo con **React + Node.js + Express**
 * 📈 Interesado en automatización y desarrollo de productos
 
